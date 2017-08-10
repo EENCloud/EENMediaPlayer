@@ -1,0 +1,6 @@
+framework module EENMediaPlayer {
+  umbrella header "EENMediaPlayer.h"
+
+  export *
+  module * { export * }
+}
